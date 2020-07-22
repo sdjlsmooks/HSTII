@@ -1,0 +1,10 @@
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Release\NTST.ScriptLinkService.Objects.dll
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Release\NTST.ScriptLinkService.Objects.pdb
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Release\NTST.ScriptLinkService.Objects.xml
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.vbprojAssemblyReference.cache
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.Resources.resources
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.vbproj.GenerateResource.cache
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.dll
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.xml
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.pdb
+H:\AvatarMigrationProject\136_4354_20_ScriptLinkStub\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.vbproj.CoreCompileInputs.cache

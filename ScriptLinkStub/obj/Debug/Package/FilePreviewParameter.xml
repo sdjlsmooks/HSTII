@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Calc4" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^H:\\AvatarMigrationProject\\136_4354_20_ScriptLinkStub\\ScriptLinkStub\\ScriptLinkStub\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^H:\\AvatarMigrationProject\\136_4354_20_ScriptLinkStub\\ScriptLinkStub\\ScriptLinkStub\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
