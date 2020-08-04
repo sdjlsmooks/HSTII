@@ -158,6 +158,7 @@ namespace ScriptLinkStub
                                     returnObject.Forms.ElementAt(0).CurrentRow.RowAction = "EDIT";
                                     returnObject.ErrorCode = 3;
                                     returnObject.ErrorMesg = "Invalid Date Format";
+                                    log.Debug("SDJL: Exception Caught: " + e.StackTrace);
                                     return returnObject;
                                 }
                             }
@@ -416,7 +417,19 @@ namespace ScriptLinkStub
                             // ti_16
                             if (field.FieldNumber.Equals("86.37"))
                             {
-                                usedProtection = Int64.Parse(field.FieldValue);
+                                usedProtection = 0;
+                                if (!field.FieldValue.Equals(""))
+                                {
+                                    log.Debug("SDJL: Parsing Used Protection");
+                                    try
+                                    {
+                                        usedProtection = Int64.Parse(field.FieldValue);
+                                    }
+                                    catch (Exception e)
+                                    {
+                                        log.Debug("SDJL: Exception Caught: usedProtection: " + field.FieldValue + "   Exception: " + e.StackTrace);
+                                    }
+                                }
                             }
 
                             // ti_17
